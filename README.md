@@ -5,14 +5,18 @@
 - 🌱 I’m currently learning -> HTML,CSS,JAVASCRIPT,REACT
 - 🤔 I’m looking for help with React!
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenomaini&show_icons=true&theme=transparent)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="bm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
   <img align="center" alt="bm-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="bm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/72529753?s=400&u=1707bad1b1efe5cbab420225b5ce91bb37759178&v=4">
 </div>
+
+<br>
 
 <div> 
    <a href = "mailto:dev.brenomaini@gmail.com">
